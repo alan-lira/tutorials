@@ -6,10 +6,10 @@ This tutorial provides essential knowledge for starter users of Amazon Web Servi
 - Understand the differences between reboot, stop, hibernate, and terminate actions;
 - Understand the spot instance interruptions;
 - Configure an MPI cluster using EC2 instances;
-- Execute MPI and OpenMPI applications on the previously configured cluster.
+- Execute MPI and OpenMP applications on the previously configured cluster.
 ## Presentation
 
-Please refer to the 'presentation/introduction_to_aws_ec2.pdf' file to learn the basic aspects of AWS EC2 and to follow the step-by-step guide to manually configure an MPI cluster and execute MPI and OpenMPI applications on EC2.
+Please refer to the 'presentation/introduction_to_aws_ec2.pdf' file to learn the basic aspects of AWS EC2 and to follow the step-by-step guide to manually configure an MPI cluster and execute MPI and OpenMP applications on EC2.
 
 ## Automated Step-by-Step
 
